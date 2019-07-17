@@ -12,4 +12,6 @@
 - Step 2: 1_Integrated_Data.ipynb
 - Step 3: 2_Cite-seq_Analysis_R.R
 
- 
+## Requirement packages:
+- Python: pandas, numpy, keras
+- R: Seurat (v3), SingleR, tidyverse
